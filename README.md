@@ -1,1 +1,2 @@
-proy
+Nuevo proyecto posible
+init desde apps desktop externas...
